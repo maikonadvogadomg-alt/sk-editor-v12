@@ -1,7 +1,7 @@
-// service-worker.js — gerado pelo Mini SK em 08/10/2026, 12:26:00
+// service-worker.js — gerado pelo Mini SK em 08/10/2026, 12:32:01
 // Não precisa mexer: ele guarda sozinho o que o app usa.
 const PREFIXO = 'sk-sk-v1-';
-const CACHE = PREFIXO + 'muzov5a5';
+const CACHE = PREFIXO + 'muzp2w0f';
 // Lista feita automaticamente (para funcionar sem internet logo após instalar)
 const GUARDAR = [
   "./",
