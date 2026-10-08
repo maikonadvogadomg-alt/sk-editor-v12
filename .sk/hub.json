@@ -1,0 +1,26 @@
+{
+  "titulo": "SK V1",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "extrator.html",
+      "nome": "Extrator Jurídico — Maikon Caldeira OAB/MG 183712",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon-192.png",
+      "emoji": "🛡️"
+    },
+    {
+      "path": "index.html",
+      "nome": "SK Code Editor",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg",
+      "emoji": "💻"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "claro",
+  "links": []
+}
